@@ -1,6 +1,6 @@
 # Pineapples
 
-I love pineapples !! (And fruits in general :D )
+  Long live the pineapples
 
 
 <div>
