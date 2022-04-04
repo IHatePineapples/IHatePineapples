@@ -7,15 +7,15 @@
   
   
 - 🔭 Currently trying to get into OSS for Gentoo
-- 🌱 Learning stuff in Gentoo stuff and Linux this and programming that.
+- 🌱 Learning stuff in Gentoo stuff and Linux this and programming that
 
-- 📫 Hmm a mailbox
+- 📫 Hmm a m̶̘̙̺̄́͝å̷̢̫̺̂̀͗ï̸̲̲̼̓͌̂l̴̮͈̠̈́͂̈́ß̶̨̛͙̞̇̀ð̸̙̝̪̈́͊̓x̴̫̲͎̉̅̊
 
 - 😄 Pronouns: She/He/They
 - ⚡ Fun fact: uuuhhhhh 
 
 
-- Speaking of cliché, here is some really pretty and overused widgets showing off my text editing habits
+- Speaking of cliché (I didn't), here is some really pretty and overused widgets showing off my text editing habits
 
 
 <div>
@@ -25,7 +25,7 @@
 
 ## Pineapples, to be or not to be
 
-_"The pineapple (Ananas como[sus](https://youtu.be/NnS3RsnnQnI)) is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury. Since the 1820s, pineapple has been commercially grown in greenhouses and many tropical plantations._
+_"The pineapple (Ananas como[sus](https://youtu.be/gEY0yjzqYHI)) is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury. Since the 1820s, pineapple has been commercially grown in greenhouses and many tropical plantations._
 
 _Pineapples grow as a small shrub; the individual flowers of the unpollinated plant fuse to form a multiple fruit. The plant is normally propagated from the offset produced at the top of the fruit, or from a side shoot, and typically mature within a year.\[...\]"_
 
@@ -41,7 +41,7 @@ My favorite language ? I think that would be C.
 
 Wise men from Discord once said: 
 
-_" The C Programming Language: A language which combines the flexibility of assembly language with the power of assembly language."_ 
+_"The C Programming Language: A language which combines the flexibility of assembly language with the power of assembly language."_ 
 
 Source : hmmm (source should be easy to find by googling)
 
@@ -49,7 +49,7 @@ Source : hmmm (source should be easy to find by googling)
 
 ## What about scripting and automation ?
 
-I love shell language. _Stops for a moment before remebering that molluscs do not have the possibility to speak. This is not funny, I know; I just wanted to write in italic because I find it looks pretty.._
+I love shell language. _Stops for a moment before remembering that molluscs do not have the ability to speak. This is not funny, I know; I just wanted to write in italic because I find it looks pretty.._
 
 
 ```sh
@@ -59,7 +59,7 @@ while :
   done
 ```
 
-This one is for example skating indefinitely. I know, I know, _beautiful_..
+This one is for example skating infinitely. I know, I know, _beautiful_..
 
 
-終わり
+__終わり__
