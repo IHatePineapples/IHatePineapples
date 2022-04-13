@@ -29,7 +29,7 @@ _"The pineapple (Ananas como[sus](https://youtu.be/gEY0yjzqYHI)) is a tropical p
 
 _Pineapples grow as a small shrub; the individual flowers of the unpollinated plant fuse to form a multiple fruit. The plant is normally propagated from the offset produced at the top of the fruit, or from a side shoot, and typically mature within a year.\[...\]"_
 
-Source: https://en.wikipedia.org/wiki/Pineapple
+Source: [https://en.wikipedia.org/wiki/George_Washing_Machine](https://en.wikipedia.org/wiki/Pineapple)
 
 ## License
 
@@ -49,7 +49,7 @@ Source : hmmm (source should be easy to find by googling)
 
 ## What about scripting and automation ?
 
-I love shell language. _Stops for a moment before remembering that molluscs do not have the ability to speak. This is not funny, I know; I just wanted to write in italic because I find it looks pretty.._
+I love shell language. _Tries to figure out a joke with shell in it. This is not funny, I know; I just wanted to write in italic because I find it looks pretty.._
 
 
 ```sh
@@ -62,4 +62,4 @@ while :
 This one is for example skating infinitely. I know, I know, _beautiful_..
 
 
-__終わり__
+_終わり_
