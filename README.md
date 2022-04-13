@@ -15,14 +15,23 @@
 - ⚡ Fun fact: uuuhhhhh 
 
 
-- Speaking of cliché (I didn't), here is some really pretty and overused widgets showing off my text editing habits
+- 🎷 Speaking of cliché (I didn't), here is some really pretty and overused widgets showing off my text editing habits
 
 
 <div>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHatePineapples&hide_border=true&theme=synthwave&hide=makefile"/>
-  <img  align=top src="https://github-readme-stats.vercel.app/api?username=IHatePineapples&count_private=true&hide_border=true&theme=synthwave&custom_title=GitHub%20Stat"/>
+  <img  align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHatePineapples&hide_border=false&theme=dracula&hide=makefile"/>
+  <img  align=top src="https://github-readme-stats.vercel.app/api?username=IHatePineapples&count_private=true&hide_border=true&theme=dracula&custom_title=GitHub%20Stat"/>
 </div>
 
+- 🌈 Any project that is not spaghetti code and functionnal at the same time ? And the answer is ✨Yes✨!  
+  
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IHatePineapples&repo=dmenu&hide_border=true&theme=dracula&show_owner=true)](https://github.com/IHatePineapples/dmenu)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IHatePineapples&repo=dwm&hide_border=true&theme=dracula&show_owner=true)](https://github.com/IHatePineapples/dmenu)   
+- 🍤 But Also some quite nice config files for diverse applications and usecases !
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IHatePineapples&repo=dotfiles&hide_border=true&theme=dracula&show_owner=true)](https://github.com/IHatePineapples/dmenu)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IHatePineapples&repo=linux-kernel&hide_border=true&theme=dracula&show_owner=true)](https://github.com/IHatePineapples/dmenu)
 ## Pineapples, to be or not to be
 
 _"The pineapple (Ananas como[sus](https://youtu.be/gEY0yjzqYHI)) is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury. Since the 1820s, pineapple has been commercially grown in greenhouses and many tropical plantations._
