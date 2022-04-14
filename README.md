@@ -23,7 +23,7 @@
   <img  align=top src="https://github-readme-stats.vercel.app/api?username=IHatePineapples&count_private=true&hide_border=true&theme=dracula&custom_title=GitHub%20Stat"/>
 </div>
 
-- 🌈 Any project that is not spaghetti code and functionnal at the same time ? And the answer is ✨Yes✨!  
+- 🌈 Any project that's not spaghetti code and functionnal at the same time ? And the answer is ✨Yes✨!  
   
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IHatePineapples&repo=dmenu&hide_border=true&theme=dracula&show_owner=true)](https://github.com/IHatePineapples/dmenu)
