@@ -7,12 +7,13 @@
   
   
 - 🔭 Currently trying to get into OSS for Gentoo
-- 🌱 Learning stuff in Gentoo stuff and Linux this and programming that
+- 🌱 Learning stuff in Gentoo stuff and Linux this and programming that with open source tool this
 
 - 📫 Hmm a m̶̘̙̺̄́͝å̷̢̫̺̂̀͗ï̸̲̲̼̓͌̂l̴̮͈̠̈́͂̈́ß̶̨̛͙̞̇̀ð̸̙̝̪̈́͊̓x̴̫̲͎̉̅̊
 
 - 😄 Pronouns: She/He/They
 - ⚡ Fun fact: uuuhhhhh 
+- 🌟 Fun fact 2: I sometimes open my mouth and say things, sounds come out; a lot perhaps, many even. 
 
 
 - 🎷 Speaking of cliché (I didn't), here is some really pretty and overused widgets showing off my text editing habits
@@ -23,7 +24,7 @@
   <img  align=top src="https://github-readme-stats.vercel.app/api?username=IHatePineapples&count_private=true&hide_border=true&theme=dracula&custom_title=GitHub%20Stat"/>
 </div>
 
-- 🌈 Any project that's not spaghetti code and functionnal at the same time ? And the answer is ✨Yes✨!  
+- 🌈 Any repo that's not spaghetti code and functionnal at the same time ? And the answer is ✨Yes✨!  
   
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IHatePineapples&repo=dmenu&hide_border=true&theme=dracula&show_owner=true)](https://github.com/IHatePineapples/dmenu)
@@ -48,7 +49,7 @@ All my work is either GPL* or Public Domain, depending if it is GPL* or Public D
 
 ## Favorite Language
 
-My favorite language ? I think that would be C.
+My favorite language ? I think that would be ~~italian~~ C.
 
 Wise men from Discord once said: 
 
@@ -56,7 +57,7 @@ _"The C Programming Language: A language which combines the flexibility of assem
 
 Source : hmmm (source should be easy to find by googling)
 
-..I am not fourteen and I found it really deep.
+..I am _not_ fourteen and I found it really deep.
 
 ## What about scripting and automation ?
 
