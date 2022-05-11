@@ -6,7 +6,7 @@
 - Mostly editing text files with funny file extension names, known as __SoFtWaRe DEveLoPmEnT__ 
   
   
-- 🔭 Currently trying to get into OSS for Gentoo
+- 🔭 Currently trying to get into OSS
 - 🌱 Learning stuff in Gentoo stuff and Linux this and programming that with open source tool this
 
 - 📫 Hmm a m̶̘̙̺̄́͝å̷̢̫̺̂̀͗ï̸̲̲̼̓͌̂l̴̮͈̠̈́͂̈́ß̶̨̛͙̞̇̀ð̸̙̝̪̈́͊̓x̴̫̲͎̉̅̊
