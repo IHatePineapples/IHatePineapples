@@ -1,4 +1,4 @@
-#  Hello Thereeee 👋
+#  Helloo Thereeee 👋
 
 
   Long live the pineapple
@@ -72,6 +72,10 @@ while :
 ```
 
 This one is for example skating infinitely. I know, I know, _beautiful_..
+
+## Exclusive: Extreme rare footage of me editing text files:
+![me](./computerissues-killmylaptop.gif)
+
 
 
 _終わり_
