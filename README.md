@@ -12,9 +12,6 @@
 - 📫 Hmm a m̶̘̙̺̄́͝å̷̢̫̺̂̀͗ï̸̲̲̼̓͌̂l̴̮͈̠̈́͂̈́ß̶̨̛͙̞̇̀ð̸̙̝̪̈́͊̓x̴̫̲͎̉̅̊
 
 - 😄 Pronouns: She/He/They
-- ⚡ Fun fact: uuuhhhhh 
-- 🌟 Fun fact 2: I sometimes open my mouth and say things, sounds come out; a lot perhaps, many even. 
-
 
 - 🎷 Speaking of cliché (I didn't), here is some really pretty and overused widgets showing off my text editing habits
 
@@ -49,7 +46,7 @@ All my work is either GPL* or Public Domain, depending if it is GPL* or Public D
 
 ## Favorite Language
 
-My favorite language ? I think that would be ~~italian~~ C.
+My favorite language ? ~~italian~~ C.
 
 Wise men from Discord once said: 
 
@@ -61,13 +58,12 @@ Source : hmmm (source should be easy to find by googling)
 
 ## What about scripting and automation ?
 
-I love shell language. _Tries to figure out a joke with shell in it. This is not funny, I know; I just wanted to write in italic because I find it looks pretty.._
-
+I love shell language and different shells. I can handle short discussions with mussels. 
 
 ```sh
 while :
   do
-    skate() || die();
+    skate || die;
   done
 ```
 
