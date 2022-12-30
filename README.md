@@ -54,8 +54,6 @@ _"The C Programming Language: A language which combines the flexibility of assem
 
 Source : hmmm (source should be easy to find by googling)
 
-..I am _not_ fourteen and I found it really deep.
-
 ## What about scripting and automation ?
 
 I love shell language and different shells. I can handle short discussions with mussels. 
